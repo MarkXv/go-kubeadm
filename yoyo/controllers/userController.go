@@ -10,19 +10,13 @@ type UserController struct {
 	beego.Controller
 }
 
-// @Title CreateUser
-// @Description create users
-// @Param	body		body 	models.User	true		"body for user content"
-// @Success 200 {int} models.User.Id
-// @Failure 403 body is empty
-// @router / [post]
 func (c *UserController) Get() {
 	o := orm.NewOrm()
 
 	user := models.User{
 		//Id:   ,
-		Name: "小明",
-		Pwd:  "1111",
+		Name: "小红",
+		Pwd:  "1112",
 	}
 
 	_,err := o.Insert(&user)
@@ -30,4 +24,5 @@ func (c *UserController) Get() {
 		beego.Info("error",err)
 		return
 	}
+	c.TplName = "user/userList.html"
 }

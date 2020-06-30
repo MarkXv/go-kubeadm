@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="180b3ec1-812c-4c06-8e75-b863b7f331cd" name="Default Changelist" comment="" />
+    <list default="true" id="ae6b579f-4154-4df4-a490-04177d6353c7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,28 +15,14 @@
       <executable />
     </execution>
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="urls">
       <list>
-        <option value="Go File" />
+        <option value="file://$PROJECT_DIR$/../.." />
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,49 +38,25 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1dtdIik8c9BHZJrl9JUpmm9elJ1" />
+  <component name="ProjectId" id="1e2cBW26oNeEBrWBhEBqA5SXL64" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="go" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
-    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="yoyo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="yoyo" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build yoyo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="yoyo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/main.go" />
-      <package value="yoyo" />
-      <directory value="$PROJECT_DIR$/" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build main.go" />
-        <item itemvalue="Go Build.go build yoyo" />
-      </list>
-    </recent_temporary>
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="play.paths.configuration" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -113,56 +75,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="180b3ec1-812c-4c06-8e75-b863b7f331cd" name="Default Changelist" comment="" />
-      <created>1593248245515</created>
+      <changelist id="ae6b579f-4154-4df4-a490-04177d6353c7" name="Default Changelist" comment="" />
+      <created>1593522992038</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1593248245515</updated>
-      <workItem from="1593248246741" duration="222000" />
-      <workItem from="1593249921654" duration="3907000" />
-      <workItem from="1593395039030" duration="1308000" />
+      <updated>1593522992038</updated>
+      <workItem from="1593522993317" duration="179000" />
+      <workItem from="1593523450999" duration="85000" />
+      <workItem from="1593523540935" duration="29000" />
+      <workItem from="1593523584147" duration="138000" />
+      <workItem from="1593523748662" duration="391000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="138" key="#GOROOT" timestamp="1593248256748">
+    <state x="219" y="105" width="1041" height="594" key="SettingsEditor" timestamp="1593524140176">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="138" key="#GOROOT/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593248256748" />
-    <state x="452" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593398391197">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="452" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1593398391197" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1593398724556">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593261197163" />
-    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1593398724556" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1593398724556">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593261197162" />
-    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1593398724556" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1593398724555">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593261197162" />
-    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1593398724555" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1593398724556">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593261197162" />
-    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1593398724556" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1593248344109">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593248344109" />
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1593252012178">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1440.-1245.1440.2537@0.23.1440.877" timestamp="1593252012178" />
+    <state x="219" y="105" width="1041" height="594" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1593524140176" />
   </component>
 </project>
